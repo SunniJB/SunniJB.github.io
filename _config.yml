@@ -41,12 +41,12 @@ footer:
 social:
   - title: twitter
     url: https://twitter.com/JBSunniva
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: 
-  - title: bitbucket
-    url: 
+  # - title: facebook
+  #  url:
+  # - title: stack-overflow
+  #  url: 
+ # - title: bitbucket
+  #  url: 
   - title: github
     url: https://github.com/SunniJB/
   - title: linkedin

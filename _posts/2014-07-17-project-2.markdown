@@ -6,7 +6,6 @@ img: spoonTheoryIcon.png
 alt: image-alt
 project-date: December 2023
 client: Nord university
-team: Pi Studios
 category: Project management, animation, programming
 description: Small, student-led team creating Spoon Theory, a resource management game centering the experience of being disabled. Lead the team using a SCRUM format, attended weekly meetings with executives, both overview timelines and sprint-to-sprint planning. Programmed minigames, cutscenes, created and implemented all animations seen in-game.
 ---

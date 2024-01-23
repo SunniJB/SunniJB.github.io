@@ -6,7 +6,6 @@ img: raccoonTaleIcon.png
 alt: image-alt
 project-date: December 2022
 client: Nord University
-team: Trash games
 category: Animation, programming
 description: I was in primary charge of animation, level design and narrative design, with a programming role in boss fight and platforming mechanics. I was also responsible for documentation; meeting minutes and game design document. Game showcased at the Norwegian Game Awards.
 ---

@@ -1,11 +1,11 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-18
+date: 2023
 img: nordysseyIcon.png
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+client: Nord University
+category: Game design, research, programming
+description: A student-led team who created the navigation app Nordyssey. Nordyssey was created as an offline google maps and Mazemap alternative, tailored to Nord University campus Levanger. In primary charge of research, communication, programming and implementation of AR elements.
 ---

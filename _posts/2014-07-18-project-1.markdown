@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 1
-date: 2023
+date: 2024-01-23
 img: nordysseyIcon.png
 alt: image-alt
 project-date: April 2014

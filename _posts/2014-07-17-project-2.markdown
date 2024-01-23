@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 2
-date: 2022
+date: 2024-01-23
 img: spoonTheoryIcon.png
 alt: image-alt
 project-date: December 2023

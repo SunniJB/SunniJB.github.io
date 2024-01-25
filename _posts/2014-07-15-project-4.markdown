@@ -10,4 +10,13 @@ category: Animation
 description: After learning more about animation layers and avatar masks, here is me working in the Unity state machine again. This project was part of my fourth semester at Games- and Entertainment Technology. I put together a short video showing what I did. (Who knew that to make games you also needed to know video editing)
 youtubeId: 2hiWsPVd8fI
 ---
-{% include youtubePlayer.html id=page.youtubeId %}
+## Embed Youtube
+<div class="embed-container">
+  <iframe
+      src="https://www.youtube.com/embed/{{ page.youtubeId }}"
+      width="700"
+      height="480"
+      frameborder="0"
+      allowfullscreen="true">
+  </iframe>
+</div>

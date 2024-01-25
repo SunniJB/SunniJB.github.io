@@ -1,5 +1,6 @@
 ---
 layout: default
+title: "Nordyssey"
 modal-id: 1
 date: 2024-01-23
 img: nordysseyIcon.png
@@ -7,5 +8,12 @@ alt: image-alt
 project-date: April 2014
 client: Nord University
 category: Game design, research, programming
-description: A student-led team who created the navigation app Nordyssey. Nordyssey was created as an offline google maps and Mazemap alternative, tailored to Nord University campus Levanger. In primary charge of research, communication, programming and implementation of AR elements.
+youtubeId: g1-VDsdltHQ
 ---
+A student made, student used navigation app. Nordyssey was created as an offline google maps and Mazemap alternative, tailored to Nord University campus Levanger. The inspiration for this project was trying to make it to class at the start of the fall semester 2023. The room we were given had changed names over the years, which lead to it being known as Daniel Mortensson salen, the Daniel Mortensson auditorium, the red auditorium, and rødsalen. A good chunk of the class didn't speak Norwegian, and trying to guess what the room was called on Mazemap (WITH letters that weren't even on your keyboards) was rough. As such, Nordyssey was born; a navigation app that could save the different names used for the same room, in several languages, and uses AR to guide you directly there.
+{% include youtubePlayer.html id=page.youtubeId %}
+My contribution to the project was research, communication, programming and implementation. None of the team had ever worked with navigation tech before so we all tried on different hats. I researched Cisco waypoints and QR codes, and I created the QR code system when we decided on it. 
+
+I was also doing most of the communcation with externals, like getting us the architectural files from the people who built campus, talking to the head engineer of Nord University, doing walk-arounds with the head custodian, and of course keeping our instructors in the loop with weekly updates and presentations. 
+
+I worked on most of the AR elements of the app, I did all the sound design, and in the end I made our trailer. 

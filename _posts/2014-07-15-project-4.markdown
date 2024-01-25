@@ -1,11 +1,13 @@
 ---
 layout: default
 modal-id: 4
-date: 2014-07-15
-img: game.png
+date: 2023-01-25
+img: mayaAnimation.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: May 2023
+client: Nord University
+category: Animation
+description: After learning more about animation layers and avatar masks, here is me working in the Unity state machine again. This project was part of my fourth semester at Games- and Entertainment Technology. I put together a short video showing what I did. (Who knew that to make games you also needed to know video editing)
+youtubeId: 2hiWsPVd8fI
 ---
+{% include youtubePlayer.html id=page.youtubeId %}

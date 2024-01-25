@@ -1,5 +1,6 @@
 ---
 layout: default
+title: "Nordyssey"
 modal-id: 1
 date: 2024-01-23
 img: nordysseyIcon.png
@@ -7,5 +8,5 @@ alt: image-alt
 project-date: April 2014
 client: Nord University
 category: Game design, research, programming
-description: A student-led team who created the navigation app Nordyssey. Nordyssey was created as an offline google maps and Mazemap alternative, tailored to Nord University campus Levanger. In primary charge of research, communication, programming and implementation of AR elements.
 ---
+A student-led team who created the navigation app Nordyssey. Nordyssey was created as an offline google maps and Mazemap alternative, tailored to Nord University campus Levanger. In primary charge of research, communication, programming and implementation of AR elements.

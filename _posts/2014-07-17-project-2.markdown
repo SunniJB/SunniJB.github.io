@@ -1,5 +1,6 @@
 ---
 layout: default
+title: "Spoon Theory"
 modal-id: 2
 date: 2024-01-23
 img: spoonTheoryIcon.png
@@ -7,5 +8,8 @@ alt: image-alt
 project-date: December 2023
 client: Nord university
 category: Project management, animation, programming
-description: Small, student-led team creating Spoon Theory, a resource management game centering the experience of being disabled. Lead the team using a SCRUM format, attended weekly meetings with executives, both overview timelines and sprint-to-sprint planning. Programmed minigames, cutscenes, created and implemented all animations seen in-game.
+youtubeId: ALq1VXT2JCk
 ---
+For many disabled people, juggling time, energy and money is an equation that simply does not add up. Spoon Theory puts the player in the shoes of Chloe, a young woman with lupus, and charges them with this equation. Student-led project, got an A. I lead the team using a SCRUM format, attended weekly meetings with executives, both overview timelines and sprint-to-sprint planning. Programmed minigames, cutscenes, created and implemented all animations seen in-game.
+
+{% include youtubePlayer.html id=page.youtubeId %}

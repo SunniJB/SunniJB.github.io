@@ -1,5 +1,6 @@
 ---
 layout: default
+title: "Raccoon Tale"
 modal-id: 3
 date: 2024-01-23
 img: raccoonTaleIcon.png
@@ -7,5 +8,9 @@ alt: image-alt
 project-date: December 2022
 client: Nord University
 category: Animation, programming
-description: I was in primary charge of animation, level design and narrative design, with a programming role in boss fight and platforming mechanics. I was also responsible for documentation; meeting minutes and game design document. Game showcased at the Norwegian Game Awards.
+youtubeId: Oo_vx1htly4
 ---
+
+Raccoon Tale is a charming 2D puzzle platformer aimed at casual players, with a unique combination of stealth, physics based puzzles and pacifism - a non-violent approach to stealth gameplay. The game is completely text-less as well, for everyone to enjoy! For Raccoon Tale I was in primary charge of animation, level design and narrative design, with a programming role in boss fight and platforming mechanics. I was also responsible for documentation; meeting minutes and game design document. 
+
+{% include youtubePlayer.html id=page.youtubeId %}

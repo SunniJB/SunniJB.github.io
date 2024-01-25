@@ -1,6 +1,5 @@
 ---
 layout: default
-title: "Nordyssey"
 modal-id: 1
 date: 2024-01-23
 img: nordysseyIcon.png
@@ -8,7 +7,5 @@ alt: image-alt
 project-date: April 2014
 client: Nord University
 category: Game design, research, programming
-youtubeId: g1-VDsdltHQ
+description: A student-led team who created the navigation app Nordyssey. Nordyssey was created as an offline google maps and Mazemap alternative, tailored to Nord University campus Levanger. In primary charge of research, communication, programming and implementation of AR elements.
 ---
-A student made, student used navigation app. Nordyssey was created as an offline google maps and Mazemap alternative, tailored to Nord University campus Levanger. The inspiration for this project was trying to make it to class at the start of the fall semester 2023. The room we were given had changed names over the years, which lead to it being known as Daniel Mortensson salen, the Daniel Mortensson auditorium, the red auditorium, and rødsalen. A good chunk of the class didn't speak Norwegian, and trying to guess what the room was called on Mazemap (WITH letters that weren't even on your keyboards) was rough. As such, Nordyssey was born; a navigation app that could save the different names used for the same room, in several languages, and uses AR to guide you directly there.
-{% include youtubePlayer.html id=page.youtubeId %}

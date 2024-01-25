@@ -4,7 +4,7 @@ title: "Raccoon Tale"
 modal-id: 3
 date: 2024-01-23
 img: raccoonTaleIcon.png
-alt: image-alt
+alt: raccoonTaleAltImage.gif
 project-date: December 2022
 client: Nord University
 category: Animation, programming
